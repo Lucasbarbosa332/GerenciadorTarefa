@@ -5,6 +5,14 @@ Um simples e pratico gerenciador de tarefas
 Gerenciador de Tarefas - Projeto em Java
 Este é um gerenciador de tarefas simples desenvolvido em Java, utilizando a biblioteca Swing para a interface gráfica. O objetivo deste projeto é ajudar o usuário a organizar suas tarefas com funcionalidades adicionais como notificações, agrupamento por data, tags, exportação de tarefas e muito mais.
 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+ <img width=70% src=""></img>
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 Funcionalidades
 1. Cadastro e Visualização de Tarefas
 O aplicativo permite ao usuário adicionar novas tarefas com informações como título, descrição, data de vencimento e tags. As tarefas podem ser visualizadas em uma lista, com a opção de marcar como concluídas.
