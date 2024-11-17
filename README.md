@@ -8,7 +8,7 @@ Este é um gerenciador de tarefas simples desenvolvido em Java, utilizando a bib
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- <img width=70% src=""></img>
+ <img width=70% src="https://github.com/Lucasbarbosa332/GerenciadorTarefa/blob/main/Captura%20de%20tela%202024-11-12%20021653.png"></img>
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
